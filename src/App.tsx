@@ -56,6 +56,7 @@ function App() {
             </a>
           </div>
         </div>
+      </section>
       </header>
 
       {/* Hero Section */}
