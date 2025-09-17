@@ -46,14 +46,14 @@ function App() {
           </div>
 
           <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
-            <button className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 transform hover:scale-105 shadow-lg flex items-center justify-center space-x-2">
+            <a href="https://pump.fun/profile/6LSsYNmEfbmwpcTtRSTptzQjD6Db3Mrrx4LwDVzHd2gb?tab=balances" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 transform hover:scale-105 shadow-lg flex items-center justify-center space-x-2">
               <Play className="w-5 h-5" />
               <span>Watch Stream</span>
-            </button>
-            <button className="border-2 border-gray-300 hover:border-orange-400 text-gray-700 hover:text-orange-600 px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
+            </a>
+            <a href="https://t.me/sunshinesquad777" target="_blank" rel="noopener noreferrer" className="border-2 border-gray-300 hover:border-orange-400 text-gray-700 hover:text-orange-600 px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
               <Users className="w-5 h-5" />
               <span>Join Community</span>
-            </button>
+            </a>
           </div>
 
           <div className="grid grid-cols-2 md:grid-cols-4 gap-8 max-w-4xl mx-auto">
@@ -141,9 +141,10 @@ function App() {
                   <ArrowRight className="w-5 h-5" />
                 </a>
                 <button className="border-2 border-orange-300 hover:border-orange-500 text-orange-600 hover:text-orange-700 px-10 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
+                <a href="https://pump.fun/profile/6LSsYNmEfbmwpcTtRSTptzQjD6Db3Mrrx4LwDVzHd2gb?tab=balances" target="_blank" rel="noopener noreferrer" className="border-2 border-orange-300 hover:border-orange-500 text-orange-600 hover:text-orange-700 px-10 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
                   <Play className="w-5 h-5" />
                   <span>Watch pump.fun</span>
-                </button>
+                </a>
               </div>
              <div className="mt-6">
                <a href="https://twitter.com/SunshineSquad77" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-gray-600 hover:text-blue-500 transition-colors duration-200 space-x-2">
