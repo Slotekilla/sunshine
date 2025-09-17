@@ -147,7 +147,6 @@ function App() {
                 </a>
               </div>
              <div className="mt-6">
-               <a href="https://twitter.com/SunshineSquad77" target="_blank" rel="noopener noreferrer" className="inline-flex items-center text-gray-600 hover:text-blue-500 transition-colors duration-200 space-x-2">
                  <Twitter className="w-5 h-5" />
                  <span className="font-medium">Follow us @SunshineSquad77</span>
                  <ArrowRight className="w-4 h-4" />
