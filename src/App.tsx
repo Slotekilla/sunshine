@@ -43,8 +43,7 @@ function App() {
               <span className="text-gray-800">Squad</span>
             </h1>
             <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
-              No dumbing, just pure vibes and fun. If we make money - good. If we don't, who cares! 
-              Join our energetic community where we stream together on pump.fun ☀️
+              No dumping, just pure vibes and fun. Join our energetic community where we stream together on pump.fun ☀️
             </p>
           </div>
 
