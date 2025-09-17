@@ -140,13 +140,13 @@ function App() {
                   <span>Join Telegram</span>
                   <ArrowRight className="w-5 h-5" />
                 </a>
-                <button className="border-2 border-orange-300 hover:border-orange-500 text-orange-600 hover:text-orange-700 px-10 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
                 <a href="https://pump.fun/profile/6LSsYNmEfbmwpcTtRSTptzQjD6Db3Mrrx4LwDVzHd2gb?tab=balances" target="_blank" rel="noopener noreferrer" className="border-2 border-orange-300 hover:border-orange-500 text-orange-600 hover:text-orange-700 px-10 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
                   <Play className="w-5 h-5" />
                   <span>Watch pump.fun</span>
                 </a>
               </div>
              <div className="mt-6">
+               <a href="#" className="inline-flex items-center space-x-2 text-gray-600 hover:text-orange-600 transition-colors">
                  <Twitter className="w-5 h-5" />
                  <span className="font-medium">Follow us @SunshineSquad77</span>
                  <ArrowRight className="w-4 h-4" />
@@ -181,7 +181,3 @@ function App() {
 }
 
 export default App;
-  )
-}
-  )
-}
