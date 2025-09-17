@@ -149,7 +149,7 @@ function App() {
                 </a>
               </div>
              <div className="mt-6">
-               <a href="#" className="inline-flex items-center space-x-2 text-gray-600 hover:text-orange-600 transition-colors">
+               <a href="https://x.com/sunshinesquad77" target="_blank" rel="noopener noreferrer" className="inline-flex items-center space-x-2 text-gray-600 hover:text-orange-600 transition-colors">
                  <Twitter className="w-5 h-5" />
                  <span className="font-medium">Follow us @SunshineSquad77</span>
                  <ArrowRight className="w-4 h-4" />
