@@ -18,7 +18,10 @@ function App() {
             </div>
             <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full font-semibold transition-colors duration-200 flex items-center space-x-2">
               <Send className="w-4 h-4" />
-              <span>Join Us</span>
+              <a href="https://t.me/sunshinesquad777" target="_blank" rel="noopener noreferrer" className="flex items-center space-x-2">
+                <Send className="w-4 h-4" />
+                <span>Join Us</span>
+              </a>
             </button>
           </div>
         </div>
