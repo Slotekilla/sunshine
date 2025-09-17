@@ -22,7 +22,6 @@ function App() {
             </a>
             </div>
           </div>
-        </div>
       </header>
 
       {/* Hero Section */}
