@@ -93,8 +93,7 @@ function App() {
               </div>
               <h3 className="text-xl font-semibold mb-4 text-gray-800">Pump.fun Streaming</h3>
               <p className="text-gray-600 leading-relaxed">
-                Watch our live streams on pump.fun where we analyze the market in real-time, 
-                find opportunities, and have fun together!
+                Watch our live streams on pump.fun where we trade our coins in real-time, find opportunities, and have fun together!
               </p>
             </div>
 
