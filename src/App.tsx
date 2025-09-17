@@ -16,10 +16,45 @@ function App() {
                 Sunshine Squad
               </h1>
             </div>
-            <button className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full font-semibold transition-colors duration-200 flex items-center space-x-2">
+            <a href="https://t.me/sunshinesquad777" target="_blank" rel="noopener noreferrer" className="bg-blue-600 hover:bg-blue-700 text-white px-6 py-2 rounded-full font-semibold transition-colors duration-200 flex items-center space-x-2">
               <Send className="w-4 h-4" />
               <span>Join Us</span>
-            </button>
+            </a>
+            </div>
+          </div>
+        </div>
+      </header>
+
+      {/* Hero Section */}
+      <section className="py-20 px-4">
+        <div className="max-w-6xl mx-auto text-center">
+          <div className="mb-8">
+            <div className="inline-flex items-center bg-orange-100 text-orange-700 px-4 py-2 rounded-full text-sm font-medium mb-6">
+              <Zap className="w-4 h-4 mr-2" />
+              Active Crypto Community
+            </div>
+            <h1 className="text-5xl md:text-7xl font-bold mb-6">
+              <span className="bg-gradient-to-r from-orange-500 via-yellow-500 to-orange-600 bg-clip-text text-transparent">
+                Sunshine
+              </span>
+              <br />
+              <span className="text-gray-800">Squad</span>
+            </h1>
+            <p className="text-xl md:text-2xl text-gray-600 mb-8 max-w-3xl mx-auto leading-relaxed">
+              No dumbing, just pure vibes and fun. If we make money - good. If we don't, who cares! 
+              Join our energetic community where we stream together on pump.fun ☀️
+            </p>
+          </div>
+
+          <div className="flex flex-col sm:flex-row gap-4 justify-center mb-12">
+            <a href="https://pump.fun/profile/6LSsYNmEfbmwpcTtRSTptzQjD6Db3Mrrx4LwDVzHd2gb?tab=balances" target="_blank" rel="noopener noreferrer" className="bg-gradient-to-r from-orange-500 to-yellow-500 hover:from-orange-600 hover:to-yellow-600 text-white px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 transform hover:scale-105 shadow-lg flex items-center justify-center space-x-2">
+              <Play className="w-5 h-5" />
+              <span>Watch Stream</span>
+            </a>
+            <a href="https://t.me/sunshinesquad777" target="_blank" rel="noopener noreferrer" className="border-2 border-gray-300 hover:border-orange-400 text-gray-700 hover:text-orange-600 px-8 py-4 rounded-full font-semibold text-lg transition-all duration-200 flex items-center justify-center space-x-2">
+              <Users className="w-5 h-5" />
+              <span>Join Community</span>
+            </a>
           </div>
         </div>
       </header>
@@ -146,7 +181,7 @@ function App() {
                 </a>
               </div>
              <div className="mt-6">
-               <a href="#" className="inline-flex items-center space-x-2 text-gray-600 hover:text-orange-600 transition-colors">
+               <a href="https://twitter.com/SunshineSquad77" target="_blank" rel="noopener noreferrer" className="inline-flex items-center space-x-2 text-gray-600 hover:text-orange-600 transition-colors">
                  <Twitter className="w-5 h-5" />
                  <span className="font-medium">Follow us @SunshineSquad77</span>
                  <ArrowRight className="w-4 h-4" />
